@@ -113,6 +113,25 @@ const MainTabs = () => {
           ),
         }}
       />
+
+
+ <Tabs.Screen
+        name="About"
+        component={About}
+        options={{
+          tabBarLabel: ({ focused }) => (
+            <TabBarText focused={focused} title="About" />
+          ),
+          tabBarIcon: ({ focused }) => (
+            <TabBarIcon focused={focused} icon={"information-circle-outline"} />
+          ),
+        }}
+      />
+
+
+
+
+
     </Tabs.Navigator>
   );
 };

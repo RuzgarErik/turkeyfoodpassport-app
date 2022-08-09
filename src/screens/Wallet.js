@@ -50,6 +50,8 @@ useEffect(() => {
           <TopNav
 
         middleContent="TURKEY FOOD PASSPORT"
+        middleTextStyle={{ color: '#111111', letterSpacing:  0.60}}
+
     />
       <TopNav
         middleContent="My Wallet"
@@ -79,6 +81,7 @@ useEffect(() => {
         style={{
           flex: 2,
           justifyContent: "center",
+          paddingBottom: 80
         }}
       >
         

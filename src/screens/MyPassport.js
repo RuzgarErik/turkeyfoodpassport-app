@@ -76,8 +76,8 @@ useEffect (() => {getValueFor("eth")}, []);
     <TopNav
 
   middleContent="TURKEY FOOD PASSPORT"
-  middleTextStyle={{ color: '#111111' }}
-/>
+  middleTextStyle={{ color: '#111111', letterSpacing:  0.60}}
+  />
 <TopNav
   middleContent={"My Passport "}
   height={40}

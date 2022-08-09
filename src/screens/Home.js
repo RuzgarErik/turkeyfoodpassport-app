@@ -90,14 +90,14 @@ export default function ({ navigation }) {
     <TopNav
 
   middleContent="TURKEY FOOD PASSPORT"
-  middleTextStyle={{ color: '#111111' }}
-/>
+  middleTextStyle={{ color: '#111111', letterSpacing:  0.60}}
+  />
 <TopNav
   middleContent={text.toUpperCase()}
   height={40}
   leftAction={() => navigation.goBack()}
   backgroundColor="#616161"
-  middleTextStyle={{ color: 'white' }}
+  middleTextStyle={{ color: 'white', letterSpacing:  3}}
 />
       <FlatGrid
       itemDimension={150}
