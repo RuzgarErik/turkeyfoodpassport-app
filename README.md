@@ -8,4 +8,4 @@
 ![](https://ruzgarerik.com/yemekpasaportu/content/image/03h3hy3p63ud7x5c4oq.jpeg)![enter image description here](https://ruzgarerik.com/yemekpasaportu/content/image/33iah2npy3ujv75xvrxl.jpg)
 ![](https://ruzgarerik.com/yemekpasaportu/content/image/p0e4ksd67xhr18psm0vp.jpg)
 ![](https://i.imgur.com/lPsevAN.png)
-## ⚠ Bu Proje Teknofest ve T3 Vakfı Tarafından Maddi OLarak Destek Almıştır ⚠ 
+## ⚠ Bu Proje Teknofest ve T3 Vakfı Tarafından Maddi Destek Almıştır ⚠ 
